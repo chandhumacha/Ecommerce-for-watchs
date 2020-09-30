@@ -1,2 +1,3 @@
 # Ecommerce-for-watchs
-This application is only to book Watches
+This application is on still developing stage
+
