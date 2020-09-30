@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092788515734",
+    "firebase_url": "https://ramesh-9f823.firebaseio.com",
+    "project_id": "ramesh-9f823",
+    "storage_bucket": "ramesh-9f823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092788515734:android:da261cc2b39651ef4563b7",
+        "android_client_info": {
+          "package_name": "com.example.ramesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092788515734-dmpqlc8mqkr1a4hqpof21on2o2nsud28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramesh",
+            "certificate_hash": "504b541d47b92c6e1ffdbf89f28d1d7aabfdf01d"
+          }
+        },
+        {
+          "client_id": "1092788515734-1va8kc08h2lse36uqers7a936epn9b3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTeD8_lvhV_I1gyPSJ8gNtIol-kN0PcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092788515734-1va8kc08h2lse36uqers7a936epn9b3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
